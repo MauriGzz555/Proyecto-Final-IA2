@@ -30,7 +30,7 @@ El objetivo principal es desarrollar un sistema de detección de objetos capaz d
 
 ---
 
-## Ejecutar con Google Colab
+# Ejecutar con Google Colab
 
 1. Sube el notebook a Google Colab.
 2. Sube el dataset a Google Drive.
@@ -55,12 +55,6 @@ Ejemplo de anotación YOLO:
 
 ```txt
 0 0.512 0.421 0.120 0.210
-```
-
-Donde:
-
-```txt
-<class_id> <x_center> <y_center> <width> <height>
 ```
 
 ---
