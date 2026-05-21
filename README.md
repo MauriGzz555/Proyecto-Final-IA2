@@ -18,6 +18,10 @@ El objetivo principal es desarrollar un sistema de detección de objetos capaz d
 
 ---
 
+# Clonación del proyecto:
+git clone https://github.com/MauriGzz555/Proyecto-Final-IA2
+cd sports-analytics-yolo
+
 # Tecnologías Utilizadas
 
 * Python 3.10+
