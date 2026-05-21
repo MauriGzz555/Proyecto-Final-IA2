@@ -94,7 +94,7 @@ Salida visual esperada:
 * Bounding box alrededor del balón
 * Puntajes de confianza para cada detección
 
-![Frame de ejemplo, con los jugadores y balón marcados en la imágen](images/ejemplo.jph)
+![Frame de ejemplo, con los jugadores y balón marcados en la imágen](imagenes/ejemplo.jpg)
 
 Ejemplo de métricas:
 
