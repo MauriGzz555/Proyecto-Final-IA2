@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+numpy
+matplotlib
+scikit-learn
+optuna
+PyYAML
+torch
+torchvision
+jupyter
+ipython
