@@ -92,7 +92,7 @@ Salida visual esperada:
 
 * Bounding boxes alrededor de los jugadores
 * Bounding box alrededor del balón
-* Puntajes de confianza para cada detección
+* Zonas importantes marcadas (Ärea de penalti, separación entre izquierda y derecha, etc.)
 
 ![Frame de ejemplo, con los jugadores y balón marcados en la imágen](imagenes/ejemplo.jpg)
 
