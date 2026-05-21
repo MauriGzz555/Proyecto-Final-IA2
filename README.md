@@ -104,24 +104,6 @@ Precision: 0.91
 Recall: 0.87
 ```
 
-# Ejemplos de Comandos
-
-## Entrenar el Modelo
-
-```python
-from ultralytics import YOLO
-
-model = YOLO("yolo11s.pt")
-results = model.train(data="dataset.yaml", epochs=50)
-```
-
-## Ejecutar Inferencia
-
-```python
-results = model.predict(source="test_image.jpg")
-```
-
----
 
 # Notas
 
