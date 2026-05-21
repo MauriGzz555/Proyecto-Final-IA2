@@ -46,7 +46,7 @@ El proyecto espera un dataset que contenga:
 
 * Jugadores de fútbol
 * Balón de fútbol
-* El video para extramer los frames
+* El video para extraer los frames
 * Labels e imágenes de entrenamiento
 
 Las imágenes deben estar anotadas en formato YOLO.
