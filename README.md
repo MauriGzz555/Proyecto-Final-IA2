@@ -30,26 +30,10 @@ El objetivo principal es desarrollar un sistema de detección de objetos capaz d
 
 ---
 
-# Estructura del Proyecto
-
-```bash
-.
-├── Final_Proyect_Equipo_3vf.ipynb
-├── requirements.txt
-├── dataset/
-│   ├── train/
-│   ├── valid/
-│   └── test/
-├── results/
-└── README.md
-```
-
----
-
 ## Ejecutar con Google Colab
 
 1. Sube el notebook a Google Colab.
-2. Sube el dataset o conecta Google Drive.
+2. Sube el dataset a Google Drive.
 3. Ejecuta las celdas en orden.
 
 El notebook ya incluye integración con Google Drive.
