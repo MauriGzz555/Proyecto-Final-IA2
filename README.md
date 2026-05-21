@@ -101,7 +101,7 @@ Salida visual esperada:
 * Bounding box alrededor del balón
 * Zonas importantes marcadas (Ärea de penalti, separación entre izquierda y derecha, etc.)
 
-![Frame de ejemplo, con los jugadores y balón marcados en la imágen](imagenes/ejemplo.jpg)
+![Frame de ejemplo, con los jugadores y balón marcados en la imágen](imagen_ejemplo_readme/ejemplo.jpg)
 
 Ejemplo de métricas:
 
